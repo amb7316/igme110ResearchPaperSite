@@ -1,0 +1,41 @@
+body{
+    background-image:url(media/main%20background.jpg);
+    background-size: cover;
+}
+
+h1, h3{
+    font-family: "Staatliches", cursive;
+    font-weight: lighter;
+    margin-left: 110px;
+}
+
+div{
+    margin-left:100px;
+    margin-right:100px;
+}
+
+p, img, ul{
+    margin-left:110px;
+    margin-right:110px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+a{
+    color:darkblue;
+}
+
+#rectangle{
+    width:inherit;
+    height:inherit;
+    background-image: url(media/background.jpg);
+    background-size: cover;
+}
+
+p, ul{
+    font-family: "Jomolhari", serif;
+}
